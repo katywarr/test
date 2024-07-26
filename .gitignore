@@ -1,0 +1,8 @@
+src/utils/__pycache__
+src/simulation_scripts/__pycache__
+src/simulation_scripts/.DS_Store
+.idea
+examples/output/.DS_Store
+examples/.DS_Store
+src/utils/.DS_Store
+.DS_Store
