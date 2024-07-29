@@ -18,21 +18,21 @@ test repo for checking collab links
             <b>Figures 10 and 11: The effect of sub-pattern optimisations on memory capacity</b> 
         </td>
         <td align="center" width="80">
-            <a href="https://nbviewer.jupyter.org/github/katywarr/test/blob/main/examples/Plot%20A%20-%20Sub-pattern.ipynb">
+            <a href="https://nbviewer.jupyter.org/github/katywarr/test/blob/main/examples/examples/Optimising%20Sub-pattern%20Recognition%20(Memory%20Capacity).ipynb">
                 <img src="http://www.pytorchbearer.org/assets/img/nbviewer_logo.svg" height="34">
             </a>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/katywarr/test/blob/main/examples/Plot%20A%20-%20Sub-pattern.ipynb">
+            <a href="https://github.com/katywarr/test/blob/main/examples/examples/Optimising%20Sub-pattern%20Recognition%20(Memory%20Capacity).ipynb">
                 <img src="http://www.pytorchbearer.org/assets/img/github_logo.png" height="32">
             </a>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <a href="https://colab.research.google.com/github/katywarr/test/blob/master/spectral_opponency.ipynb">
+            <a href="https://colab.research.google.com/github/katywarr/test/blob/master/examples/Optimising%20Sub-pattern%20Recognition%20(Memory%20Capacity).ipynb">
                 <img src="http://www.pytorchbearer.org/assets/img/colab_logo.png" height="28">
             </a>
         </td>
